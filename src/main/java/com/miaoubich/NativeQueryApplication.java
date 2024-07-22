@@ -1,4 +1,4 @@
-package com.miaoubich.usingdtoclass;
+package com.miaoubich;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
