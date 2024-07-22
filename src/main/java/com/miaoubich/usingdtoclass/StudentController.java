@@ -1,4 +1,4 @@
-package com.miaoubich;
+package com.miaoubich.usingdtoclass;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

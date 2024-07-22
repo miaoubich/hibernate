@@ -1,4 +1,4 @@
-package com.miaoubich;
+package com.miaoubich.usingdtoclass;
 
 import lombok.Data;
 
